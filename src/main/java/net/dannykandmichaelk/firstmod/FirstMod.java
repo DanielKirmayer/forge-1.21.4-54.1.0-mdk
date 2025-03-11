@@ -1,8 +1,7 @@
-package net.dannykandmichaelk.bigmod;
+package net.dannykandmichaelk.firstmod;
 
 import com.mojang.logging.LogUtils;
-import net.dannykandmichaelk.bigmod.item.ModItems;
-import net.minecraft.world.item.CreativeModeTab;
+import net.dannykandmichaelk.firstmod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;

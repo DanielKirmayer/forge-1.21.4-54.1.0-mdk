@@ -1,6 +1,6 @@
-package net.dannykandmichaelk.bigmod.item;
+package net.dannykandmichaelk.firstmod.item;
 
-import net.dannykandmichaelk.bigmod.FirstMod;
+import net.dannykandmichaelk.firstmod.FirstMod;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
